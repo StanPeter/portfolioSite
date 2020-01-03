@@ -1,0 +1,8 @@
+
+{
+  "name": "Flask Portfolio App",
+  "description": "A simple portfolio app built with Flask Python framework",
+  "repository": "https://github.com/StanPeter/portfolioSite.git",
+  "logo": "http://www.unixstickers.com/image/data/stickers/flask/Flask-logo.sh.png",
+  "keywords": ["Flask", "Portfolio"]
+}
