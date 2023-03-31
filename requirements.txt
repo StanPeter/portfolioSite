@@ -15,7 +15,7 @@ Jinja2==2.9.4
 pep8==1.7.0
 python-dateutil==2.6.0
 
-redis==2.10.5
+redis==4.4.4
 requests==2.12.4
 requests-oauthlib==0.8.0
 
